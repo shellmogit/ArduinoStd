@@ -1,3 +1,7 @@
+/* Version 1.00 */
+/* Arduino for Shellmo Standard Circuit version 0.01 */
+
+
 #include <SoftwareSerial.h>
 #include <MsTimer2.h>
 #include <EEPROM.h>
